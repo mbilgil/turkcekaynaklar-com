@@ -358,6 +358,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [TimerJS Zamanı Geriye Saydırma](https://github.com/ismail0234/timer.date.js) - [İsmail Satilmiş](https://github.com/ismail0234)
 - [JavaScript için uyarlanmış Temiz Kod kavramları](https://github.com/umutphp/clean-code-javascript-tr) - [Umut Işık](https://umuts.info)
 - [JavaScript Eğitimi](https://www.mobilhanem.com/javascript-egitimi/) - [Gökhan Kurt](http://gokhankurt.com.tr)
+- [Modern JavaScript Eğitimi](https://tr.javascript.info/)
 
 
 ### jQuery
